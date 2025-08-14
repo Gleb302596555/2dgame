@@ -7,6 +7,10 @@ TagManager:
   - Collactable
   - Collectable
   - Enemy
+  - PowerUp
+  - CheckPoint
+  - Trap
+  - Spikes
   layers:
   - Default
   - TransparentFX
